@@ -61,10 +61,10 @@ footer p, footer h1{
 
 nav ul li{
  display: inline-block;   /* แสดงผลเป็นแบบ inline-block */  
-   float: left; sans-serif; /* ให้ลอยอยู่ทางซ้าย */   
+   float: left; /* ให้ลอยอยู่ทางซ้าย */   
    padding: 7px; /* ระยะห่างภายในเป็น 7px */
   font-size: 17px;  /* ฟอนต์มีขนาด 17px */
-  /* background-color: red; */
+  
 }
 
 a{
